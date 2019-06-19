@@ -1,0 +1,5 @@
+beq $v, $v1, loop1
+beq $v1, $v2, loop1
+
+loop1:
+	addi $v1, $a0, $t1

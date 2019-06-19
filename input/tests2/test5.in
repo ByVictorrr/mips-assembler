@@ -1,0 +1,7 @@
+# This is test program 1.  This program does nothing useful.
+# # # # #### # #
+	
+	add $s0, $0, $zero
+	addi $t0, $t0, 100#test comment
+label1:
+	add $fag, $load, $hi

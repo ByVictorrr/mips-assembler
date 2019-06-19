@@ -1,0 +1,4 @@
+label1: addi $T1, $R0, $t2 #this is add two number
+	sub $T2, $0, !p #hi
+jumpe:
+	#multiply A and b
