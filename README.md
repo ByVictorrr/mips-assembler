@@ -24,6 +24,8 @@ This assembler is called a 2-pass assembler because it takes 2 passes through th
 
 ## Usage
 cd src
+
 make
+
 java mipsAssembler inFile.asm
 
