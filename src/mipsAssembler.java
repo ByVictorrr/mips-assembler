@@ -4,7 +4,7 @@ import java.util.*;
 import static java.util.stream.Collectors.toMap;
 
 
-public class lab2 {
+public class mipsAssembler{
 
 	private static Parser parse = new Parser();
 
